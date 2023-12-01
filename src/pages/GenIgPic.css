@@ -1,0 +1,10 @@
+.bigText label,
+.bigText input {
+  font-size: 70px;
+  padding: 20px;
+}
+
+.sketch-picker {
+  width: 100% !important;
+  max-width: none !important;
+}
