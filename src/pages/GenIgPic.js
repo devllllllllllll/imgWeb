@@ -91,7 +91,7 @@ function GenIgPic() {
           value={text.text}
           onChange={textChangeHandler}
         />
-        <label className="text-white text-lg self-end">Font size:</label>
+        <label className="text-white text-lg self-end">Font Size:</label>
         <input
           type="txt"
           className="form-input w-full pl-5"
